@@ -92,6 +92,11 @@ sudo ./cs2-cv-aimbot
 We do **NOT** supply a game model – generic COCO will fire on every human silhouette.  
 Train **1-class YOLOv8n** on **CS2 head screenshots**:
 
+### base model
+```
+https://huggingface.co/SpotLab/YOLOv8Detection/blob/3005c6751fb19cdeb6b10c066185908faf66a097/yolov8n.onnx
+```
+
 # 1. install ultralytics
 ```
 pip install ultralytics
