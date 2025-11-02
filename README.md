@@ -1,6 +1,6 @@
 # CS2-External-CV-Aimbot  
 **Pixel-only, memory-zero, XWayland-safe.**
-
+#replaced by a newer version chek my repos
 ---
 
 ## TL;DR
